@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React"
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux"
+    },
+    {
+      "title": "have tea",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "avas",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "agsfds",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "agdhbdfg",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "mkmjsdfnb",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "uierhritubnvjnlc",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "eorthsnblbser09terg",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "5tg1sdfvdszfvsdfv6d4f",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
